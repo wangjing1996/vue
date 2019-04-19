@@ -2,6 +2,7 @@
    <div>
         <ul v-for='i in data'>
             <li>{{i.name}}</li>
+            111
         </ul>
    </div>
 </template>
